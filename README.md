@@ -50,6 +50,12 @@ Phase 2 – Pilot with early brand partners
 Phase 3 – Open protocol standardization  
 Phase 4 – Digital Public Goods alignment  
 
+## Digital Public Goods Alignment
+
+Verifiit is being developed with the intention of contributing to the Digital Public Goods ecosystem. The project follows open-source principles and aims to meet the Digital Public Goods Standard, including open licensing, transparency, interoperability, and documentation.
+
+The protocol is designed to support governments, NGOs, and consumer protection organizations in implementing trusted product authentication and transparency infrastructure in emerging markets.
+
 ## License
 
 MIT License
